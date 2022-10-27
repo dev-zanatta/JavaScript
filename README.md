@@ -1,1 +1,1 @@
-# JavaScript
+Algoritmos desenvolvidos em JavaScript.
